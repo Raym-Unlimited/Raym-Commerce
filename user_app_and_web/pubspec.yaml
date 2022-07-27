@@ -44,10 +44,16 @@ dependencies:
 #  flutter_facebook_auth: ^3.5.7
   photo_view: ^0.14.0
   image_compression_flutter: ^1.0.2
+  flutter_launcher_icons: ^0.9.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/image/logo.png"
 
 flutter:
   uses-material-design: true

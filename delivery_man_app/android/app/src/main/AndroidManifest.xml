@@ -29,7 +29,7 @@
 
     <application
         tools:replace="android:label"
-        android:label="6amMart Delivery"
+        android:label="Spidmart Delivery"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
